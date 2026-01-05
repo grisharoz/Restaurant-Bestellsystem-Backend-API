@@ -1,4 +1,4 @@
-# Restaurant Ordering API (Gruppe 10)
+# Restaurant Ordering API 
 
 ## Projektbeschreibung
 Dieses Projekt ist eine **REST-API für ein Restaurant-Bestellsystem**
